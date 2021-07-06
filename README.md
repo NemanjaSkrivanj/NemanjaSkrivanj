@@ -8,5 +8,5 @@
 - 👋 Pozdrav, moje ime je Nemanja Škrivanj.
 - 👀 Zainteresovan sam za fullstack web programiranje. Vest sam podjednako u front-end programiranju, kao i u back-end-u. Za back-end programiranje uglavnom koristim Node.js sa Express radnim okruzenjem uz MySQL za baze podataka, ali takodje sam spreman za rad u PHP+MySQL okruzenju.
 - 🌱 Trenutno sam u procesu usavrsavanja backend dela web-a i racunarskih mreza, dok ulazim u trecu godinu studija Informacionih tehnologija.
-- 💞️ Spreman sam za kolaboracije na svim tipovima projekata, dizajniranje sajtova, aplikacija ili skroz funkcionalnih web prodavnica.
+- 💞️ Spreman sam za kolaboracije na svim tipovima projekata, dizajniranje sajtova, aplikacija ili web prodavnica.
 - 📫 Mozete me kontaktirati preko GitHub profila, i ujedno pogledati neke prethodne projekte.
